@@ -1,9 +1,5 @@
 # IndicTableQA: A Multilingual Benchmark for Table Question Answering in Indian Languages
 
-<p align="center">
-  <b>ACL ARR Submission</b>  
-</p>
-
 ---
 
 ## 📌 Overview
